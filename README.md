@@ -1,2 +1,2 @@
 # jquery_cuaks
-coba liat dulu kali aja cocok
+membuat validasi uplod, menampilkan gambar thumbnail yang dipilih user
