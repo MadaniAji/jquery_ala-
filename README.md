@@ -1,2 +1,2 @@
 # jquery_cuaks
-coba ngintip dulu kali aja cocok
+coba liat dulu kali aja cocok
